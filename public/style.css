@@ -2,6 +2,11 @@
 {
     box-sizing: border-box;
 }
+h1 {
+    text-align: center;
+    background-color: #888;
+    color: #fff;
+}
 form {
     display: flex;
 }
